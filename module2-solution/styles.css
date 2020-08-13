@@ -139,3 +139,9 @@ background-color: gray;color: red;
 h2.three{
 	background-color: pink;color: orange;
 }
+p.second{
+	background-color: red;
+}
+p.third{
+	background-color: purple;
+}
